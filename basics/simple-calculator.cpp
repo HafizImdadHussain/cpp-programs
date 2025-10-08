@@ -9,7 +9,7 @@ int main()
 
     cout << "Enter firt number: ";
     cin >> num1;
-    cout << "Enter operation (+, -, *, /): ";
+    cout << "Enter operator (+, -, *, /): ";
     cin >> op;
     cout << "Enter second number: ";
     cin >> num2;
